@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_button_blue",
+    "texture": "f784daa2-1de9-4959-a593-4b49f70d6688",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      60
+    ]
+  }
+}

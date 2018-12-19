@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cancel2",
+    "texture": "cf4b97b5-0877-4a04-868b-9d1311c82052",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      59,
+      59
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

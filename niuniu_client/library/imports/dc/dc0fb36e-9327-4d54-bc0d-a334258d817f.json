@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btngo",
+    "texture": "22d8d2cb-4e5e-4290-828a-863e0236c752",
+    "atlas": "",
+    "rect": [
+      9,
+      5,
+      162,
+      61
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      180,
+      70
+    ]
+  }
+}

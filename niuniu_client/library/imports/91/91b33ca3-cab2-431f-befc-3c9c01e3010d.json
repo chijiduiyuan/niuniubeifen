@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paihangbang",
+    "texture": "92b8be13-1d04-44ad-a94e-2973182b396a",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      158,
+      70
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      161,
+      75
+    ]
+  }
+}

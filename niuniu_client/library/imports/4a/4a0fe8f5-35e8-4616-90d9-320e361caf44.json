@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_sit_bg",
+    "texture": "5a7d0995-670f-4898-9f69-4e7b355e0b85",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      122
+    ]
+  }
+}

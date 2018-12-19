@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "graber_icon",
+    "texture": "c8e07dc0-f5ce-4ff9-b392-08957e8b34c1",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      34,
+      35
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      39,
+      39
+    ]
+  }
+}

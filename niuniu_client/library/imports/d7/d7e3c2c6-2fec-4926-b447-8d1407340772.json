@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnnorob",
+    "texture": "04db4d64-b19a-4df5-83da-a91225ad1292",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      118,
+      55
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      125,
+      60
+    ]
+  }
+}

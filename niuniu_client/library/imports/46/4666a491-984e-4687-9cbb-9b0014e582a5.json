@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullfight_type10",
+    "texture": "11fc524c-8611-42ea-9c05-ae733cc2ccce",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      165,
+      61
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      165,
+      62
+    ]
+  }
+}

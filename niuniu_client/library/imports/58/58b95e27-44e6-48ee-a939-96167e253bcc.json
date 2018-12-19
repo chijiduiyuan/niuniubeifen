@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_banker_icon",
+    "texture": "468726e3-ada3-46af-8540-b22c2e49a289",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      58
+    ]
+  }
+}

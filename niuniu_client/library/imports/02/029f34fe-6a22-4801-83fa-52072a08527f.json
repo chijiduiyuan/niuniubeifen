@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "no_niu_btn",
+    "texture": "fc17ee82-2e7c-44ac-b155-8713653f8a56",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      88
+    ]
+  }
+}

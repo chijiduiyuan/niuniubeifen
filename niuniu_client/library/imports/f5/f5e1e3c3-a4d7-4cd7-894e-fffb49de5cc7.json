@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leimu",
+    "texture": "1a4e54db-2851-4b33-9245-fc30a97a6dcd",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      72,
+      71
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ]
+  }
+}

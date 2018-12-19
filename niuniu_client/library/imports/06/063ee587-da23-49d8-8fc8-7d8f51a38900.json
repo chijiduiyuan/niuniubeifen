@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_text_times5",
+    "texture": "5559a314-53ad-4447-9b3f-e6cf8871c87a",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      49,
+      37
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huisedi",
+    "texture": "13b822f9-8ea9-454d-ac2a-a421bbf8ef4b",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      208,
+      49
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      210,
+      50
+    ]
+  }
+}

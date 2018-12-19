@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3bei",
+    "texture": "80841d25-8ca4-4d5e-ab12-6c83e445f486",
+    "atlas": "",
+    "rect": [
+      30,
+      13,
+      77,
+      43
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      137,
+      72
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_jiugongge",
+    "texture": "eeba6b60-f546-450b-9a7e-f8cc2d479a06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      48
+    ]
+  }
+}

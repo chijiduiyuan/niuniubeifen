@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnconfirm",
+    "texture": "07a1d202-cda9-4a97-a96b-1819aa51ca54",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      215,
+      68
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      220,
+      75
+    ]
+  }
+}

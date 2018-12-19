@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_fight_o-export",
+    "texture": "88781534-c1f4-4692-b470-61cd83a38d3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      57
+    ],
+    "offset": [
+      -1,
+      3.5
+    ],
+    "originalSize": [
+      128,
+      64
+    ]
+  }
+}

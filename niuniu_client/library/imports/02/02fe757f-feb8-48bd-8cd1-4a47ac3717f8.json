@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_text_go",
+    "texture": "31279295-4b42-47f9-87d5-147dc32f28e3",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      103,
+      53
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      104,
+      54
+    ]
+  }
+}

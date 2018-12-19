@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "bull_fight_o-export",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "c0700459-4631-4c7d-b6cf-9af968a4b4f2"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 85,
+    "fontSize": 32,
+    "atlasName": "C:\\Users\\Administrator\\Desktop\\6人\\images\\bull_fight_o-export.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 704
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 88
+      },
+      "33": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 126,
+          "height": 57
+        },
+        "xOffset": 0,
+        "yOffset": 28,
+        "xAdvance": 139
+      }
+    },
+    "kerningDict": {}
+  }
+}

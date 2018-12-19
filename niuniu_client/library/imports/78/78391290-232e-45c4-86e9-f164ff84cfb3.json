@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_score_lose",
+    "texture": "ccf7f46b-bb1b-415a-aaac-eaed3bad5cd8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      57
+    ],
+    "offset": [
+      -4,
+      3.5
+    ],
+    "originalSize": [
+      128,
+      64
+    ]
+  }
+}

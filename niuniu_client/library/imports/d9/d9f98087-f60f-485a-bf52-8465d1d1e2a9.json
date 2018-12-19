@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_kuaijieyu",
+    "texture": "0a5e8c29-a8f4-41ad-82f4-f059b2f2b92d",
+    "atlas": "",
+    "rect": [
+      3,
+      10,
+      414,
+      481
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      420,
+      500
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ondi",
+    "texture": "48ddb086-c511-4a97-a071-6cddb82e95da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      45
+    ]
+  }
+}

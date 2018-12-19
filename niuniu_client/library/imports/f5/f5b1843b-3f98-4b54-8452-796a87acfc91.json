@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meihua_6",
+    "texture": "b0430abc-4d50-42e8-9dcb-584db131f9bc",
+    "atlas": "c0f860bf-b0fa-46b5-aec3-e8c38575cfe2",
+    "rect": [
+      818,
+      348,
+      146,
+      202
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      146,
+      204
+    ],
+    "rotated": 1
+  }
+}

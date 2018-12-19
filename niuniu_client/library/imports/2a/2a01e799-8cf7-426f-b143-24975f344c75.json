@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiangzhuang",
+    "texture": "8b4212e4-f49a-44ce-bac1-84ef70bacedf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      54
+    ]
+  }
+}

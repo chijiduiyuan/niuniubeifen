@@ -1,0 +1,39 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "design-resolution-height": 1024,
+  "design-resolution-width": 640,
+  "excluded-modules": [
+    "Physics",
+    "DragonBones",
+    "Collider",
+    "MotionStreak",
+    "VideoPlayer",
+    "PageViewIndicator",
+    "StudioComponent",
+    "EditorBox",
+    "Toggle",
+    "ToggleGroup",
+    "TiledMap",
+    "ParticleSystem",
+    "CCSpriteDistortion"
+  ],
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "default"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {},
+  "start-scene": "98344720-d7d4-47c5-85e0-523a8cfd3c18",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": true,
+  "cocos-analytics": {
+    "enable": false,
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2"
+  }
+}

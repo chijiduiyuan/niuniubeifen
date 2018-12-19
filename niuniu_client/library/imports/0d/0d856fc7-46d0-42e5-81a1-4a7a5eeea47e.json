@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_clock",
+    "texture": "1ffbae4c-f5b0-467d-8561-ba9179a641a7",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      59,
+      63
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      60,
+      63
+    ]
+  }
+}

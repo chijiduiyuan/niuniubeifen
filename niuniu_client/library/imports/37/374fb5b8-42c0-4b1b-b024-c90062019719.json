@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "no_grab_btn",
+    "texture": "29cbe518-413f-4b91-8763-d681bcbf154e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      88
+    ]
+  }
+}

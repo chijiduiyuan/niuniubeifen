@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaishifapai",
+    "texture": "5e74aaf3-4119-4a93-8ab0-c2fa6efb5ac3",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      146,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      44
+    ]
+  }
+}

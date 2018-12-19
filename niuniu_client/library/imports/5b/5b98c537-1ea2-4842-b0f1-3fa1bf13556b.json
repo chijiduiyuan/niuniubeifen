@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_text_rob",
+    "texture": "17adab62-9820-4c15-9f0a-55c9867b30cc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      54
+    ]
+  }
+}

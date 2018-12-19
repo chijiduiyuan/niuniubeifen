@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bull_coin",
+    "texture": "68a37ed7-c769-4909-822f-794f44571a43",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      63
+    ]
+  }
+}

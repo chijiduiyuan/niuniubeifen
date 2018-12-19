@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choose_nor",
+    "texture": "58dfc0dd-4d08-4ec3-92f0-19615cc0fe65",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      30,
+      30
+    ],
+    "offset": [
+      -5,
+      -5
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

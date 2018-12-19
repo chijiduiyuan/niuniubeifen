@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "whiteline",
+    "texture": "f0fcb90e-5ec5-4262-9765-240afe014245",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1022,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1022,
+      3
+    ]
+  }
+}

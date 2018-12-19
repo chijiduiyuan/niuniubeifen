@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wenxintishi",
+    "texture": "6fbd925d-01d7-4c18-8910-7532a1500eec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      32
+    ]
+  }
+}

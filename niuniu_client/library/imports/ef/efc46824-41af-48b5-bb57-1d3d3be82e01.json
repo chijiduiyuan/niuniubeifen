@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokers",
+    "texture": "b0430abc-4d50-42e8-9dcb-584db131f9bc",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1018,
+      2034
+    ],
+    "offset": [
+      -1,
+      5
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ]
+  }
+}

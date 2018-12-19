@@ -1,0 +1,5 @@
+  <script src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+  <script src="//cdn.bootcss.com/bootstrap/4.0.0-beta.2/js/bootstrap.bundle.min.js"></script>
+  <script src="//cdn.bootcss.com/js-cookie/2.2.0/js.cookie.min.js"></script>
+  <script src="/static/front/js/common.js"></script>
+  <script src="/static/front/js/play.js"></script>

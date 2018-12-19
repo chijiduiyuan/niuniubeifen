@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_scoring_bg",
+    "texture": "58ff9fd0-7df7-4310-a639-2e39f82798af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      359,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      359,
+      66
+    ]
+  }
+}
